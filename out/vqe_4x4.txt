@@ -1,0 +1,8 @@
+4x4, 3 layers, 144 params, init=dimer, ED E/N = -0.574325
+exact-statevector VQE seed 0: E/N = -0.570127  rel.err = 7.31e-03  (239.4s)
+exact-statevector VQE seed 1: E/N = -0.570441  rel.err = 6.76e-03  (253.3s)
+PEPS energy at the best exact-VQE optimum (truncation error only):
+  D=2: E/N = -0.398378  |E_peps-E_vqe|/|E0| = 3.00e-01  (0.1s)
+  D=3: E/N = -0.435789  |E_peps-E_vqe|/|E0| = 2.34e-01  (0.1s)
+  D=4: E/N = -0.538135  |E_peps-E_vqe|/|E0| = 5.63e-02  (0.1s)
+PEPS-VQE (truncation in the loop, warm start):

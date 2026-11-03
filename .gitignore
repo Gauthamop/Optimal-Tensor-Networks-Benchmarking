@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.claude/
+peps_project.zip
+report/template_copy.docx
+report/build_thesis.log
+report/~$*
+~$*

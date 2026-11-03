@@ -1,0 +1,13 @@
+4x4, 3 layers, ED E/N = -0.574325, exact-circuit E/N = -0.570441 (err 6.76e-03)
+    step 20: E = -7.20080, best = -7.27791
+    step 40: E = -7.56308, best = -7.63169
+    step 60: E = -7.58535, best = -7.70258
+  D=2: truncation-only err 3.06e-01 -> PEPS-aware err 1.62e-01  (E/N = -0.481411, 60 steps, 473s)
+    step 20: E = -7.84559, best = -8.03727
+    step 40: E = -8.26381, best = -8.31167
+    step 60: E = -8.39961, best = -8.40201
+  D=3: truncation-only err 2.60e-01 -> PEPS-aware err 8.57e-02  (E/N = -0.525125, 60 steps, 1612s)
+    step 20: E = -9.03959, best = -9.03959
+    step 40: E = -9.08020, best = -9.08020
+    step 60: E = -9.08558, best = -9.08558
+  D=4: truncation-only err 6.32e-02 -> PEPS-aware err 1.13e-02  (E/N = -0.567848, 60 steps, 2218s)

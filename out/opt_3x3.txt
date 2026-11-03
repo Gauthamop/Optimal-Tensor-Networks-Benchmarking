@@ -1,0 +1,45 @@
+3x3, 4 layers, ED E/N = -0.527703, exact-circuit E/N = -0.527388 (err 5.97e-04)
+    step 20: E = -3.81675, best = -4.34888
+    step 40: E = -4.14283, best = -4.34888
+    step 60: E = -4.21446, best = -4.34888
+    step 80: E = -3.99167, best = -4.35456
+    step 100: E = -4.31519, best = -4.38142
+    step 120: E = -4.36818, best = -4.38142
+    step 140: E = -4.38062, best = -4.38210
+    step 160: E = -4.37772, best = -4.39468
+    step 180: E = -4.39123, best = -4.39493
+    step 200: E = -4.39263, best = -4.39815
+  D=2: truncation-only err 1.93e-01 -> PEPS-aware err 7.39e-02  (E/N = -0.488683, 200 steps, 491s)
+    step 20: E = -4.25928, best = -4.33212
+    step 40: E = -4.37287, best = -4.37287
+    step 60: E = -4.34606, best = -4.43347
+    step 80: E = -4.43921, best = -4.45627
+    step 100: E = -4.46834, best = -4.50466
+    step 120: E = -4.49000, best = -4.51370
+    step 140: E = -4.46075, best = -4.51370
+    step 160: E = -4.43545, best = -4.51370
+    step 180: E = -4.48101, best = -4.51370
+    step 200: E = -4.39525, best = -4.51370
+  D=3: truncation-only err 1.44e-01 -> PEPS-aware err 4.96e-02  (E/N = -0.501522, 200 steps, 346s)
+    step 20: E = -4.70574, best = -4.71073
+    step 40: E = -4.72240, best = -4.72240
+    step 60: E = -4.72723, best = -4.72723
+    step 80: E = -4.72970, best = -4.72970
+    step 100: E = -4.73084, best = -4.73084
+    step 120: E = -4.73150, best = -4.73150
+    step 140: E = -4.73183, best = -4.73183
+    step 160: E = -4.73187, best = -4.73193
+    step 180: E = -4.73226, best = -4.73226
+    step 200: E = -4.73234, best = -4.73239
+  D=4: truncation-only err 2.16e-02 -> PEPS-aware err 3.57e-03  (E/N = -0.525821, 200 steps, 345s)
+    step 20: E = -4.72320, best = -4.72768
+    step 40: E = -4.72968, best = -4.73139
+    step 60: E = -4.73355, best = -4.73372
+    step 80: E = -4.73059, best = -4.73454
+    step 100: E = -4.73184, best = -4.73454
+    step 120: E = -4.73099, best = -4.73454
+    step 140: E = -4.73418, best = -4.73454
+    step 160: E = -4.73370, best = -4.73487
+    step 180: E = -4.73498, best = -4.73513
+    step 200: E = -4.73372, best = -4.73513
+  D=6: truncation-only err 1.30e-02 -> PEPS-aware err 2.99e-03  (E/N = -0.526126, 200 steps, 485s)
